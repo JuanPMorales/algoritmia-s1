@@ -1,4 +1,4 @@
-Algoritmo cajero
+Algoritmo validarPIN
 	
 	Definir pin, intentos Como Entero
 	Definir acceso Como Logico
